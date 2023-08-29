@@ -9,9 +9,7 @@ where customer = 'Atliq Exclusive' and region = 'APAC'
 group by market
 order by market;
 ````
-<br/>
 **What is the percentage of unique product increase in 2021 vs. 2020?**
-
 ````sql
 select X.A as unique_product_2020, Y.B as unique_products_2021, round((B-A)*100/A,2) as percentage_chg
 from 
@@ -22,5 +20,5 @@ where fiscal_year = 2020) X,
 where fiscal_year = 2021) Y
 ) 
 ````
-<br/>
+
 
