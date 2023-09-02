@@ -1,3 +1,6 @@
+**Link to download database SQL project:**
+URL: https://drive.google.com/file/d/1sptLlOgDXCrMHU8ZRotL4jMwupGVL_F3/view?usp=sharing
+
 **Consumer Insights Analysis**
 <br/>
 
